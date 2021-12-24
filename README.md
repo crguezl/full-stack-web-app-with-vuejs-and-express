@@ -17,11 +17,26 @@ ITerm2: https://www.iterm2.com/ (Mac Only)
 
 Git: https://git-scm.com/
 
-## Comments
+## Comments 2021
 
 - Install v8.2 of node. It fails with v16.13
-- The vue-cli used in the video is 2.8.2. Use npx vue instead of vue
+- The vue-cli used in the video is 2.8.2. Use `npx vue` instead of `vue`
   
+```
+➜  tab-tracker git:(main) ✗ npx vue --version
+2.8.2
+➜  tab-tracker git:(main) npx vue list
+
+  Available official templates:
+
+  ★  browserify - A full-featured Browserify + vueify setup with hot-reload, linting & unit testing.
+  ★  browserify-simple - A simple Browserify + vueify setup for quick prototyping.
+  ★  pwa - PWA template for vue-cli based on the webpack template
+  ★  simple - The simplest possible Vue setup in a single HTML file
+  ★  webpack - A full-featured Webpack + vue-loader setup with hot reload, linting, testing & css extraction.
+  ★  webpack-simple - A simple Webpack + vue-loader setup for quick prototyping.
+  ```
+
 ### Client - Terminal A
 ```
 cd client
