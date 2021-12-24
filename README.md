@@ -17,13 +17,12 @@ ITerm2: https://www.iterm2.com/ (Mac Only)
 
 Git: https://git-scm.com/
 
-### Comments
+## Comments
 
 - Install v8.2 of node. It fails with v16.13
 - The vue-cli used in the video is 2.8.2. Use npx vue instead of vue
   
 ### Client - Terminal A
-
 ```
 cd client
 npm install
