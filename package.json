@@ -1,0 +1,23 @@
+{
+  "name": "tab-tracker",
+  "version": "1.0.0",
+  "description": "A Vue.js / Express.js web application for keeping track of guitar tabs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codyseibert/tab-tracker.git"
+  },
+  "keywords": [],
+  "author": "Casiano Rodriguez Leon <crguezl@ull.edu.es> (https://crguezl.github.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codyseibert/tab-tracker/issues"
+  },
+  "homepage": "https://github.com/codyseibert/tab-tracker#readme",
+  "dependencies": {
+    "vue-cli": "^2.8.2"
+  }
+}
