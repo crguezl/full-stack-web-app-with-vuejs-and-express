@@ -20,6 +20,17 @@ Git: https://git-scm.com/
 ## Comments 2021
 
 - Install v8.2 of node. It fails with v16.13
+
+  ```
+  ➜  client git:(main) nvm use v8
+    Now using node v8.2.1 (npm v5.3.0)
+    ➜  client git:(main) nvm list  
+    ->      v8.2.1
+            v12.18.1
+            v14.4.0
+            v16.0.0
+            system
+  ```
 - The vue-cli used in the video is 2.8.2. Use `npx vue` instead of `vue`
   
 ```
